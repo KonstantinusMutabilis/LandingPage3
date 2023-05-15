@@ -18,6 +18,10 @@
     width: 50%;
 }
 
+.pl-10 {
+    padding-left: 10%;
+}
+
 @media (max-width: 992px) {
     .barimage {
         width: 100%;
